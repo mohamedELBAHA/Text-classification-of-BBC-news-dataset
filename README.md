@@ -2,7 +2,7 @@
 
 This project is about text classification ie: given a text, we would want to predict its class (tech, business, sport, entertainment or politics).
 
-My github repository for this project is [here](https://github.com/Alpharouk/NLP-Word_Embedding-LSTM-PCA-TSNE)
+
 
 ![png](/pictures/text_process_prediction.png)
 
